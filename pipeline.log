@@ -1,0 +1,819 @@
+2026-05-19 21:13:06,349 -INFO-B\u1eaft \u0111\u1ea7u k�o d\u1eef li\u1ec7u cho GC=F t\u1eeb 2020-01-01 \u0111\u1ebfn 2026-13-05/19/26
+2026-05-19 21:13:13,251 -ERROR-$GC=F: possibly delisted; no price data found  (1d 2020-01-01 -> 2020-01-01)
+2026-05-19 21:13:13,251 -WARNING-Kh�ng t�m th\u1ea5y d\u1eef li\u1ec7u cho m� GC=F
+2026-05-19 21:13:13,251 -WARNING-kh�ng c� d\u1eef li\u1ec7u
+2026-05-19 21:16:19,862 -INFO-Bắt đầu kéo dữ liệu cho GC=F từ 2020-01-01 đến 2026-05-19
+2026-05-19 21:16:20,420 -ERROR-$GC=F: possibly delisted; no price data found  (1d 2020-01-01 -> 2020-01-01)
+2026-05-19 21:16:20,420 -WARNING-Không tìm thấy dữ liệu cho mã GC=F
+2026-05-19 21:16:20,420 -WARNING-không có dữ liệu
+2026-05-19 21:19:53,287 -INFO-Bắt đầu kéo dữ liệu cho GC=F từ 2020-01-01 đến 2026-05-19
+2026-05-19 21:19:54,148 -ERROR-$GC=F: possibly delisted; no price data found  (1d 2020-01-01 -> 2020-01-01)
+2026-05-19 21:19:54,148 -WARNING-Không tìm thấy dữ liệu cho mã GC=F
+2026-05-19 21:19:54,148 -WARNING-không có dữ liệu
+2026-05-19 21:31:47,994 -INFO-Bắt đầu kéo dữ liệu cho GC=F từ 2020-01-01 đến 2026-05-19
+2026-05-19 21:31:49,329 -INFO-Đang xử lí dữ liệu
+2026-05-19 21:31:49,329 -ERROR-có lỗi xảy ra 'str' object has no attribute 'exists'
+2026-05-19 21:33:04,020 -INFO-Bắt đầu kéo dữ liệu cho GC=F từ 2020-01-01 đến 2026-05-19
+2026-05-19 21:33:04,700 -INFO-Đang xử lí dữ liệu
+2026-05-19 21:33:04,701 -ERROR-có lỗi xảy ra 'str' object has no attribute 'exists'
+2026-05-19 21:35:43,967 -INFO-Bắt đầu kéo dữ liệu cho GC=F từ 2020-01-01 đến 2026-05-19
+2026-05-19 21:35:44,949 -INFO-Đang xử lí dữ liệu
+2026-05-19 21:35:44,949 -INFO-Đang tiến hành nạp data tại đường dẫn :data\GC_F_historical_2026-05-19.parquet
+2026-05-19 21:35:44,949 -ERROR-có lỗi xảy ra Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2026-05-19 21:37:21,267 -INFO-Bắt đầu kéo dữ liệu cho GC=F từ 2020-01-01 đến 2026-05-19
+2026-05-19 21:37:22,116 -INFO-Đang xử lí dữ liệu
+2026-05-19 21:37:22,117 -INFO-Đang tiến hành nạp data tại đường dẫn :data\GC_F_historical_2026-05-19.parquet
+2026-05-19 21:37:22,579 -INFO-đã nạp thành công
+2026-05-20 18:24:08,679 -INFO-Use pytorch device_name: cpu
+2026-05-20 18:24:08,685 -INFO-Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-05-20 18:24:13,147 -ERROR-Error loading file data\fxonline24h.com_phan tich ky thuat thi truong chung khoan - John Murphy.pdf
+2026-05-20 18:27:06,462 -INFO-Use pytorch device_name: cpu
+2026-05-20 18:27:06,462 -INFO-Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-05-20 18:28:21,862 -INFO-Use pytorch device_name: cpu
+2026-05-20 18:28:21,862 -INFO-Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-05-20 18:28:55,041 -INFO-Loading faiss with AVX2 support.
+2026-05-20 18:28:55,457 -INFO-Successfully loaded faiss with AVX2 support.
+2026-05-20 18:30:16,058 -INFO-Use pytorch device_name: cpu
+2026-05-20 18:30:16,062 -INFO-Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-05-20 18:30:47,279 -INFO-Loading faiss with AVX2 support.
+2026-05-20 18:30:47,299 -INFO-Successfully loaded faiss with AVX2 support.
+2026-05-20 18:32:40,808 -INFO-Use pytorch device_name: cpu
+2026-05-20 18:32:40,808 -INFO-Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-05-20 18:33:12,979 -INFO-Loading faiss with AVX2 support.
+2026-05-20 18:33:13,038 -INFO-Successfully loaded faiss with AVX2 support.
+2026-05-20 18:34:13,346 -INFO-Use pytorch device_name: cpu
+2026-05-20 18:34:13,346 -INFO-Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-05-20 18:34:51,246 -INFO-Loading faiss with AVX2 support.
+2026-05-20 18:34:51,262 -INFO-Successfully loaded faiss with AVX2 support.
+2026-05-20 18:37:04,463 -INFO-Use pytorch device_name: cpu
+2026-05-20 18:37:04,463 -INFO-Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-05-20 18:37:39,764 -INFO-Loading faiss with AVX2 support.
+2026-05-20 18:37:39,781 -INFO-Successfully loaded faiss with AVX2 support.
+2026-05-20 18:37:40,027 -WARNING-Key 'title' is not supported in schema, ignoring
+2026-05-20 18:37:40,027 -WARNING-Key 'title' is not supported in schema, ignoring
+2026-05-20 18:37:40,027 -WARNING-Key 'title' is not supported in schema, ignoring
+2026-05-20 18:37:40,027 -WARNING-Key 'title' is not supported in schema, ignoring
+2026-05-20 18:37:40,027 -WARNING-Key 'title' is not supported in schema, ignoring
+2026-05-20 18:39:47,822 -INFO-Use pytorch device_name: cpu
+2026-05-20 18:39:47,822 -INFO-Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-05-20 18:40:20,217 -INFO-Loading faiss with AVX2 support.
+2026-05-20 18:40:20,258 -INFO-Successfully loaded faiss with AVX2 support.
+2026-05-20 18:40:20,429 -WARNING-Key 'title' is not supported in schema, ignoring
+2026-05-20 18:40:20,429 -WARNING-Key 'title' is not supported in schema, ignoring
+2026-05-20 18:40:20,434 -WARNING-Key 'title' is not supported in schema, ignoring
+2026-05-20 18:40:20,434 -WARNING-Key 'title' is not supported in schema, ignoring
+2026-05-20 18:40:20,434 -WARNING-Key 'title' is not supported in schema, ignoring
+2026-05-20 20:42:35,877 -INFO-Use pytorch device_name: cpu
+2026-05-20 20:42:35,877 -INFO-Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-05-20 20:42:58,634 -INFO-Loading faiss with AVX2 support.
+2026-05-20 20:42:58,650 -INFO-Successfully loaded faiss with AVX2 support.
+2026-05-20 20:42:58,790 -WARNING-Key 'title' is not supported in schema, ignoring
+2026-05-20 20:42:58,790 -WARNING-Key 'title' is not supported in schema, ignoring
+2026-05-20 20:42:58,790 -WARNING-Key 'title' is not supported in schema, ignoring
+2026-05-20 20:42:58,790 -WARNING-Key 'title' is not supported in schema, ignoring
+2026-05-20 20:42:58,790 -WARNING-Key 'title' is not supported in schema, ignoring
+2026-05-20 20:44:46,069 -INFO-Bắt đầu kéo dữ liệu cho SI=F từ 2020-01-01 đến 2026-05-20
+2026-05-20 20:44:53,177 -INFO-Đang xử lí dữ liệu
+2026-05-20 20:44:53,180 -INFO-Đang tiến hành nạp data tại đường dẫn :data\SI_F_historical_2026-05-20.parquet
+2026-05-20 20:44:53,210 -INFO-đã nạp thành công
+2026-05-20 20:46:27,045 -WARNING-Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 19.941159396s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 19
+}
+].
+2026-05-20 20:46:51,194 -WARNING-Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 55.773736228s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 55
+}
+].
+2026-05-21 14:33:49,226 -INFO-Use pytorch device_name: cpu
+2026-05-21 14:33:49,226 -INFO-Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-05-21 14:33:53,327 -INFO-Loading faiss with AVX2 support.
+2026-05-21 14:33:53,728 -INFO-Successfully loaded faiss with AVX2 support.
+2026-05-21 14:33:53,901 -WARNING-Key 'title' is not supported in schema, ignoring
+2026-05-21 14:33:53,901 -WARNING-Key 'title' is not supported in schema, ignoring
+2026-05-21 14:33:53,902 -WARNING-Key 'title' is not supported in schema, ignoring
+2026-05-21 14:33:53,902 -WARNING-Key 'title' is not supported in schema, ignoring
+2026-05-21 14:33:53,902 -WARNING-Key 'title' is not supported in schema, ignoring
+2026-05-21 14:34:58,516 -INFO-=== Bắt đầu phân tích AAPL ===
+2026-05-21 14:34:58,516 -INFO-[Step 1] Analyst đang phân tích dữ liệu...
+2026-05-21 14:34:58,516 -INFO-[AnalystAgent] Processing: Vui lòng phân tích mã chứng khoán AAPL. Lấy giá 5 phiên gần nhất và xu hướng MA10. Đưa ra nhận xét v...
+2026-05-21 14:34:59,335 -WARNING-Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised NotFound: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods..
+2026-05-21 14:37:44,114 -INFO-=== Bắt đầu phân tích AAPL ===
+2026-05-21 14:37:44,114 -INFO-[Step 1] Analyst đang phân tích dữ liệu...
+2026-05-21 14:37:44,114 -INFO-[AnalystAgent] Processing: Vui lòng phân tích mã chứng khoán AAPL. Lấy giá 5 phiên gần nhất và xu hướng MA10. Đưa ra nhận xét v...
+2026-05-21 14:37:44,479 -WARNING-Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised NotFound: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods..
+2026-05-21 14:42:56,704 -INFO-Use pytorch device_name: cpu
+2026-05-21 14:42:56,704 -INFO-Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-05-21 14:42:59,928 -INFO-Loading faiss with AVX2 support.
+2026-05-21 14:42:59,951 -INFO-Successfully loaded faiss with AVX2 support.
+2026-05-21 14:43:00,090 -WARNING-Key 'title' is not supported in schema, ignoring
+2026-05-21 14:43:00,090 -WARNING-Key 'title' is not supported in schema, ignoring
+2026-05-21 14:43:00,091 -WARNING-Key 'title' is not supported in schema, ignoring
+2026-05-21 14:43:00,091 -WARNING-Key 'title' is not supported in schema, ignoring
+2026-05-21 14:43:00,091 -WARNING-Key 'title' is not supported in schema, ignoring
+2026-05-21 14:47:33,138 -INFO-=== Bắt đầu phân tích GC=F ===
+2026-05-21 14:47:33,138 -INFO-[Step 1] Analyst đang phân tích dữ liệu...
+2026-05-21 14:47:33,138 -INFO-[AnalystAgent] Processing: Vui lòng phân tích mã chứng khoán GC=F. Lấy giá 5 phiên gần nhất và xu hướng MA10. Đưa ra nhận xét v...
+2026-05-21 15:53:26,803 -INFO-Use pytorch device_name: cpu
+2026-05-21 15:53:26,803 -INFO-Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-05-21 15:53:30,071 -INFO-Loading faiss with AVX2 support.
+2026-05-21 15:53:30,096 -INFO-Successfully loaded faiss with AVX2 support.
+2026-05-21 15:53:35,258 -INFO-=== Starting analysis for AAPL ===
+2026-05-21 15:53:35,258 -INFO-[Step 1] Analyst is analyzing data...
+2026-05-21 15:53:35,258 -INFO-[AnalystAgent] Gathering data for ticker: AAPL
+2026-05-21 15:53:35,258 -INFO-[AnalystAgent] Processing user input...
+2026-05-21 15:53:41,580 -INFO-[Step 1] Completed
+2026-05-21 15:53:41,581 -INFO-[Step 2] Research is gathering fundamental information...
+2026-05-21 15:53:41,581 -INFO-[ResearchAgent] Searching for information: Hãy tìm kiếm thông tin về phân tích kỹ thuật, quy tắc giao dịch và các bộ lọc cổ phiếu tốt. Áp dụng ...
+2026-05-21 15:53:41,655 -INFO-[ResearchAgent] Processing user input...
+2026-05-21 15:53:42,024 -WARNING-Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 4.747869s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 4
+}
+].
+2026-05-21 16:24:18,101 -INFO-Use pytorch device_name: cpu
+2026-05-21 16:24:18,101 -INFO-Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-05-21 16:24:22,904 -INFO-Loading faiss with AVX2 support.
+2026-05-21 16:24:22,947 -INFO-Successfully loaded faiss with AVX2 support.
+2026-05-21 16:24:50,170 -INFO-=== Starting analysis for GC=F ===
+2026-05-21 16:24:50,170 -INFO-[Step 1] Analyst is analyzing data...
+2026-05-21 16:24:50,171 -INFO-[AnalystAgent] Gathering data for ticker: GC=F
+2026-05-21 16:24:50,171 -INFO-[AnalystAgent] Processing user input...
+2026-05-21 16:24:51,474 -WARNING-Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 55.340278788s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 55
+}
+].
+2026-05-21 16:32:42,597 -INFO-Use pytorch device_name: cpu
+2026-05-21 16:32:42,597 -INFO-Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-05-21 16:32:47,114 -INFO-Loading faiss with AVX2 support.
+2026-05-21 16:32:47,142 -INFO-Successfully loaded faiss with AVX2 support.
+2026-05-21 16:32:52,370 -INFO-=== Starting analysis for AAPL ===
+2026-05-21 16:32:52,370 -INFO-[Step 1] Analyst is analyzing data...
+2026-05-21 16:32:52,370 -INFO-[AnalystAgent] Gathering data for ticker: AAPL
+2026-05-21 16:32:52,370 -INFO-[AnalystAgent] Processing user input...
+2026-05-21 16:32:53,558 -WARNING-Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 53.271110201s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 53
+}
+].
+2026-05-21 16:33:30,445 -INFO-=== Starting analysis for GC=F ===
+2026-05-21 16:33:30,445 -INFO-[Step 1] Analyst is analyzing data...
+2026-05-21 16:33:30,445 -INFO-[AnalystAgent] Gathering data for ticker: GC=F
+2026-05-21 16:33:30,446 -INFO-[AnalystAgent] Processing user input...
+2026-05-21 16:33:30,832 -WARNING-Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 15.934644631s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 15
+}
+].
+2026-05-21 16:38:35,612 -INFO-Use pytorch device_name: cpu
+2026-05-21 16:38:35,612 -INFO-Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-05-21 16:38:39,891 -INFO-Loading faiss with AVX2 support.
+2026-05-21 16:38:39,930 -INFO-Successfully loaded faiss with AVX2 support.
+2026-05-21 16:39:18,752 -INFO-=== Starting analysis for GC=F ===
+2026-05-21 16:39:18,752 -INFO-[Step 1] Analyst is analyzing data...
+2026-05-21 16:39:18,754 -INFO-[AnalystAgent] Gathering data for ticker: GC=F
+2026-05-21 16:39:18,755 -INFO-[AnalystAgent] Processing user input...
+2026-05-21 16:39:19,713 -WARNING-Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 27.099379071s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 27
+}
+].
+2026-05-21 16:41:19,028 -INFO-=== Starting analysis for GC=F ===
+2026-05-21 16:41:19,028 -INFO-[Step 1] Analyst is analyzing data...
+2026-05-21 16:41:19,028 -INFO-[AnalystAgent] Gathering data for ticker: GC=F
+2026-05-21 16:41:19,028 -INFO-[AnalystAgent] Processing user input...
+2026-05-21 16:41:24,739 -INFO-[Step 1] Completed
+2026-05-21 16:46:02,002 -INFO-Use pytorch device_name: cpu
+2026-05-21 16:46:02,002 -INFO-Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-05-21 16:46:12,333 -INFO-Loading faiss with AVX2 support.
+2026-05-21 16:46:12,363 -INFO-Successfully loaded faiss with AVX2 support.
+2026-05-21 16:46:31,353 -INFO-=== Starting analysis for GC=F ===
+2026-05-21 16:46:31,353 -INFO-[Step 1] Analyst is analyzing data...
+2026-05-21 16:46:31,353 -INFO-[AnalystAgent] Gathering data for ticker: GC=F
+2026-05-21 16:46:31,518 -INFO-[AnalystAgent] Processing user input...
+2026-05-21 16:46:32,488 -WARNING-Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 14.303560145s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 14
+}
+].
+2026-05-21 16:48:49,194 -INFO-=== Starting analysis for GC=F ===
+2026-05-21 16:48:49,194 -INFO-[Step 1] Analyst is analyzing data...
+2026-05-21 16:48:49,194 -INFO-[AnalystAgent] Gathering data for ticker: GC=F
+2026-05-21 16:48:49,255 -INFO-[AnalystAgent] Processing user input...
+2026-05-21 16:48:50,076 -WARNING-Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 56.964692267s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 56
+}
+].
+2026-05-21 16:49:03,604 -INFO-=== Starting analysis for GC=F ===
+2026-05-21 16:49:03,604 -INFO-[Step 1] Analyst is analyzing data...
+2026-05-21 16:49:03,604 -INFO-[AnalystAgent] Gathering data for ticker: GC=F
+2026-05-21 16:49:03,644 -INFO-[AnalystAgent] Processing user input...
+2026-05-21 16:49:04,012 -WARNING-Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 42.743693228s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 42
+}
+].
+2026-05-21 16:51:11,820 -INFO-=== Starting analysis for GC=F ===
+2026-05-21 16:51:11,820 -INFO-[Step 1] Analyst is analyzing data...
+2026-05-21 16:51:11,820 -INFO-[AnalystAgent] Gathering data for ticker: GC=F
+2026-05-21 16:51:11,864 -INFO-[AnalystAgent] Processing user input...
+2026-05-21 16:51:12,421 -WARNING-Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 34.341325275s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 34
+}
+].
+2026-05-21 16:52:29,505 -INFO-=== Starting analysis for GC=F ===
+2026-05-21 16:52:29,505 -INFO-[Step 1] Analyst is analyzing data...
+2026-05-21 16:52:29,505 -INFO-[AnalystAgent] Gathering data for ticker: GC=F
+2026-05-21 16:52:29,611 -INFO-[AnalystAgent] Processing user input...
+2026-05-21 16:52:30,148 -WARNING-Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 16.603544074s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 16
+}
+].
+2026-05-21 16:53:14,407 -INFO-=== Starting analysis for GC=F ===
+2026-05-21 16:53:14,407 -INFO-[Step 1] Analyst is analyzing data...
+2026-05-21 16:53:14,407 -INFO-[AnalystAgent] Gathering data for ticker: GC=F
+2026-05-21 16:53:14,446 -INFO-[AnalystAgent] Processing user input...
+2026-05-21 16:53:14,791 -WARNING-Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 31.946223541s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 31
+}
+].
+2026-05-21 16:54:53,422 -INFO-Sending question to strategy...
+2026-05-21 16:54:53,424 -INFO-[StrategyAgent] Processing user input...
+2026-05-21 16:54:54,009 -WARNING-Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 52.776890229s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 52
+}
+].
+2026-05-21 16:55:02,938 -INFO-=== Starting analysis for GC=F ===
+2026-05-21 16:55:02,938 -INFO-[Step 1] Analyst is analyzing data...
+2026-05-21 16:55:02,940 -INFO-[AnalystAgent] Gathering data for ticker: GC=F
+2026-05-21 16:55:02,989 -INFO-[AnalystAgent] Processing user input...
+2026-05-21 16:55:03,436 -WARNING-Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 43.394009522s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 43
+}
+].
+2026-05-21 16:56:34,026 -INFO-Use pytorch device_name: cpu
+2026-05-21 16:56:34,026 -INFO-Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-05-21 16:56:38,797 -INFO-Loading faiss with AVX2 support.
+2026-05-21 16:56:38,824 -INFO-Successfully loaded faiss with AVX2 support.
+2026-05-21 16:58:08,752 -INFO-Sending question to strategy...
+2026-05-21 16:58:08,752 -INFO-[StrategyAgent] Processing user input...
+2026-05-21 16:58:09,800 -WARNING-Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 36.961864326s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 36
+}
+].
+2026-05-21 17:00:23,924 -INFO-Sending question to strategy...
+2026-05-21 17:00:23,924 -INFO-[StrategyAgent] Processing user input...
+2026-05-21 17:00:24,437 -WARNING-Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 22.287540088s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 22
+}
+].
+2026-05-21 17:04:10,738 -INFO-Sending question to strategy...
+2026-05-21 17:04:10,738 -INFO-[StrategyAgent] Processing user input...
+2026-05-21 17:04:11,376 -WARNING-Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 35.442304268s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 35
+}
+].
+2026-05-21 17:07:07,934 -INFO-Use pytorch device_name: cpu
+2026-05-21 17:07:07,934 -INFO-Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-05-21 17:07:12,524 -INFO-Loading faiss with AVX2 support.
+2026-05-21 17:07:12,559 -INFO-Successfully loaded faiss with AVX2 support.
+2026-05-21 17:07:31,693 -INFO-=== Starting analysis for AAPL ===
+2026-05-21 17:07:31,693 -INFO-[Step 1] Analyst is analyzing data...
+2026-05-21 17:07:31,693 -INFO-[AnalystAgent] Gathering data for ticker: AAPL
+2026-05-21 17:07:31,705 -INFO-[AnalystAgent] Processing user input...
+2026-05-21 17:07:32,806 -WARNING-Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 14.002057273s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 14
+}
+].
+2026-05-21 17:10:11,370 -INFO-=== Starting analysis for AAPL ===
+2026-05-21 17:10:11,371 -INFO-[Step 1] Analyst is analyzing data...
+2026-05-21 17:10:11,371 -INFO-[AnalystAgent] Gathering data for ticker: AAPL
+2026-05-21 17:10:11,387 -INFO-[AnalystAgent] Processing user input...
+2026-05-21 17:10:11,956 -WARNING-Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 34.827088549s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 34
+}
+].
+2026-05-21 17:15:48,278 -INFO-Use pytorch device_name: cpu
+2026-05-21 17:15:48,278 -INFO-Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-05-21 17:15:53,032 -INFO-Loading faiss with AVX2 support.
+2026-05-21 17:15:53,075 -INFO-Successfully loaded faiss with AVX2 support.
+2026-05-21 17:16:02,522 -INFO-=== Starting OPTIMIZED analysis for AAPL ===
+2026-05-21 17:16:02,522 -INFO-[Python Phase] Extracting Parquet Data...
+2026-05-21 17:16:02,547 -INFO-[Python Phase] Extracting PDF Documents...
+2026-05-21 17:16:02,762 -INFO-[LLM Phase] Sending combined context to LLM (1 API Call)...
+2026-05-21 17:16:02,762 -INFO-[StrategyAgent] Processing user input...
+2026-05-21 17:16:03,784 -WARNING-Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 43.023564022s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 43
+}
+].
+2026-05-21 17:17:46,417 -INFO-=== Starting OPTIMIZED analysis for GC=F ===
+2026-05-21 17:17:46,417 -INFO-[Python Phase] Extracting Parquet Data...
+2026-05-21 17:17:46,501 -INFO-[AnalystAgent] Processing user input...
+2026-05-21 17:17:47,008 -WARNING-Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 59.702193746s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 59
+}
+].
+2026-05-21 17:24:02,181 -INFO-Use pytorch device_name: cpu
+2026-05-21 17:24:02,181 -INFO-Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-05-21 17:24:06,016 -INFO-Loading faiss with AVX2 support.
+2026-05-21 17:24:06,049 -INFO-Successfully loaded faiss with AVX2 support.
+2026-05-21 17:26:44,931 -INFO-=== Starting OPTIMIZED analysis for GC=F ===
+2026-05-21 17:26:44,932 -INFO-[Python Phase] Extracting Parquet Data...
+2026-05-21 17:26:45,024 -INFO-[AnalystAgent] Processing user input...
+2026-05-21 17:26:45,864 -WARNING-Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 942.475842ms. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+}
+].
+2026-05-23 16:36:24,363 -INFO-Use pytorch device_name: cpu
+2026-05-23 16:36:24,365 -INFO-Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-05-23 16:36:30,363 -INFO-Loading faiss with AVX2 support.
+2026-05-23 16:36:30,911 -INFO-Successfully loaded faiss with AVX2 support.
+2026-05-23 16:39:13,719 -INFO-=== Starting OPTIMIZED analysis for AAPL ===
+2026-05-23 16:39:13,719 -INFO-[Python Phase] Extracting Parquet Data...
+2026-05-23 16:39:13,732 -INFO-[Python Phase] Extracting PDF Documents...
+2026-05-23 16:39:14,144 -INFO-[LLM Phase] Sending combined context to LLM (1 API Call)...
+2026-05-23 16:39:14,144 -INFO-[StrategyAgent] Processing user input...
+2026-05-23 16:39:33,245 -INFO-=== Optimized analysis completed ===
+2026-05-23 16:55:22,777 -INFO-=== Starting OPTIMIZED analysis for GC=F ===
+2026-05-23 16:55:22,782 -INFO-[Python Phase] Extracting Parquet Data...
+2026-05-23 16:55:23,801 -INFO-[AnalystAgent] Processing user input...
+2026-05-23 17:11:28,973 -INFO-Sending question to strategy...
+2026-05-23 17:11:28,975 -INFO-[StrategyAgent] Processing user input...
+2026-07-31 21:45:30,279 -INFO-Use pytorch device_name: cpu
+2026-07-31 21:45:30,282 -INFO-Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-07-31 21:46:07,868 -INFO-Loading faiss with AVX2 support.
+2026-07-31 21:46:08,560 -INFO-Successfully loaded faiss with AVX2 support.
+2026-07-31 21:46:08,753 -WARNING-Key 'title' is not supported in schema, ignoring
+2026-07-31 21:46:08,753 -WARNING-Key 'title' is not supported in schema, ignoring
+2026-07-31 21:46:08,753 -WARNING-Key 'title' is not supported in schema, ignoring
+2026-07-31 21:46:08,753 -WARNING-Key 'title' is not supported in schema, ignoring
+2026-07-31 21:46:08,753 -WARNING-Key 'title' is not supported in schema, ignoring
+2026-07-31 22:07:56,102 -INFO-Use pytorch device_name: cpu
+2026-07-31 22:07:56,102 -INFO-Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-07-31 22:07:59,748 -WARNING-Key 'title' is not supported in schema, ignoring
+2026-07-31 22:07:59,748 -WARNING-Key 'title' is not supported in schema, ignoring
+2026-07-31 22:07:59,748 -WARNING-Key 'title' is not supported in schema, ignoring
+2026-07-31 22:07:59,748 -WARNING-Key 'title' is not supported in schema, ignoring
+2026-07-31 22:07:59,748 -WARNING-Key 'title' is not supported in schema, ignoring
+2026-08-02 10:09:50,644 -INFO-Use pytorch device_name: cpu
+2026-08-02 10:09:50,644 -INFO-Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-08-02 10:10:26,122 -INFO-Loading faiss with AVX2 support.
+2026-08-02 10:10:26,666 -INFO-Successfully loaded faiss with AVX2 support.
+2026-08-02 10:10:26,993 -WARNING-Key 'title' is not supported in schema, ignoring
+2026-08-02 10:10:26,993 -WARNING-Key 'title' is not supported in schema, ignoring
+2026-08-02 10:10:26,993 -WARNING-Key 'title' is not supported in schema, ignoring
+2026-08-02 10:10:26,993 -WARNING-Key 'title' is not supported in schema, ignoring
+2026-08-02 10:10:26,993 -WARNING-Key 'title' is not supported in schema, ignoring
+2026-08-02 10:12:53,844 -INFO-Use pytorch device_name: cpu
+2026-08-02 10:12:53,844 -INFO-Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-08-02 10:12:58,877 -INFO-Loading faiss with AVX2 support.
+2026-08-02 10:12:58,896 -INFO-Successfully loaded faiss with AVX2 support.
+2026-08-02 10:27:24,206 -INFO-=== Starting OPTIMIZED analysis for PNJ ===
+2026-08-02 10:27:24,206 -INFO-[Python Phase] Extracting Parquet Data...
+2026-08-02 10:27:24,216 -INFO-[Python Phase] Extracting PDF Documents...
+2026-08-02 10:27:24,475 -INFO-[LLM Phase] Sending combined context to LLM (1 API Call)...
+2026-08-02 10:27:24,475 -INFO-[StrategyAgent] Processing user input...
+2026-08-02 10:27:45,181 -INFO-=== Optimized analysis completed ===
+2026-08-02 10:28:42,321 -INFO-=== Starting OPTIMIZED analysis for GC=F ===
+2026-08-02 10:28:42,322 -INFO-[Python Phase] Extracting Parquet Data...
+2026-08-02 10:28:44,209 -INFO-[AnalystAgent] Processing user input...
+2026-08-02 10:38:18,160 -INFO-Use pytorch device_name: cpu
+2026-08-02 10:38:18,160 -INFO-Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-08-02 10:38:22,712 -INFO-Loading faiss with AVX2 support.
+2026-08-02 10:38:22,794 -INFO-Successfully loaded faiss with AVX2 support.
+2026-08-02 10:38:28,925 -INFO-=== Starting OPTIMIZED analysis for GC=F ===
+2026-08-02 10:38:28,925 -INFO-[Python Phase] Extracting Parquet Data...
+2026-08-02 10:38:29,013 -INFO-[AnalystAgent] Processing user input...
